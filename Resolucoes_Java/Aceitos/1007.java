@@ -20,7 +20,7 @@ public class Main {
 		b = sc.nextInt();
 		c = sc.nextInt();
 		d = sc.nextInt();
-		System.out.printf("DIFERENCA = %d", (a * b) - (c * d));
+		System.out.printf("DIFERENCA = %d\n", (a * b) - (c * d));
 
 		sc.close();
 
